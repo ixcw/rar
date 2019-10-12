@@ -1,2 +1,2 @@
 # rar
-file store repository
+file storage
